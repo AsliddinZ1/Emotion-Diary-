@@ -70,8 +70,8 @@ Emotion Diary - это полнофункциональное фронтенд-�
 ### Пошаговая инструкция:
 
 1. **Клонирование репозитория:**
-  ```bash
-   git clone https://github.com/sliddinZ1/Emotion-Diary-.git
+   bash
+   git clone https://github.com/AsliddinZ1/Emotion-Diary-.git
    cd emotion-diary-frontend
 
 2. **Установка зависимостей:**
